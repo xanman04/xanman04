@@ -30,7 +30,4 @@ Simple Python web scraper that collects quotes & authors from quotes.toscrape.co
 
 ## Contact
 
-I'm available for freelance Python automation, scraping, and data collection tasks.
-
-**Email:** xnc2301@gmail.com  
-**GitHub:** [@xanman04](https://github.com/xanman04)
+I'm available for Python automation, scraping, and data collection tasks.
