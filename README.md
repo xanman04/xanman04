@@ -20,13 +20,13 @@ I’m currently taking on freelance projects involving:
 Playwright + BeautifulSoup command-line scraper with CSV/JSON export and full Python packaging.  
 [View Repo](https://github.com/xanman04/imdb-scraper)
 
-**Crypto Data Tools**  
-Python tools for extracting, filtering, and exporting live crypto market data.  
-[View Repo](#)  <!-- update link if you want -->
+**Crypto Snapshot**  
+CLI tool to fetch 24h crypto ticker snapshots via ccxt
+[View Repo](https://github.com/xanman04/crypto-snapshot)
 
-**Playwright/Yelp Experiments**  
-Browser automation experiments and scraping workflows using Playwright.  
-[View Repo](#)
+**Quotes Scraper**  
+Simple Python web scraper that collects quotes & authors from quotes.toscrape.com and exports to Excel.
+[View Repo](https://github.com/xanman04/quotes-scraper)
 
 ## Contact
 
