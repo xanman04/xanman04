@@ -8,7 +8,7 @@ A Django application for discovering electronic music events and finding people 
 **Python · Django · JavaScript · SQLite**
 
 ### [stream2soulseek](https://github.com/xanman04/stream2soulseek)
-A Python desktop application for importing streaming service playlists to local libraries using a popular file-sharing API [slskd](https://github.com/slskd/slskd).
+A Python desktop application for importing streaming service playlists to local libraries using the popular music file-sharing API [slskd](https://github.com/slskd/slskd).
 
 ### [intermodel](https://github.com/xanman04/intermodel)
 A small, lightweight command-line message pipeline for AI models
