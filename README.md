@@ -2,15 +2,15 @@
 
 ## Featured Projects
 
-### [Bassline](https://github.com/xanman04/devops_assignment1)
-A Django application for discovering electronic music events and finding people to attend with. Features an interactive map, genre filters, artist profiles, and event groups.
-
-**Python · Django · JavaScript · SQLite**
-
 ### [stream2soulseek](https://github.com/xanman04/stream2soulseek)
 A Python desktop application for importing streaming service playlists to local libraries using the popular music file-sharing API [slskd](https://github.com/slskd/slskd).
 
 **Python**
+
+### [Bassline](https://github.com/xanman04/devops_assignment1)
+A Django application for discovering electronic music events and finding people to attend with. Features an interactive map, genre filters, artist profiles, and event groups.
+
+**Python · Django · JavaScript · SQLite**
 
 ### [intermodel](https://github.com/xanman04/intermodel)
 A small, lightweight command-line message pipeline for AI models
